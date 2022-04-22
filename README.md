@@ -7,3 +7,6 @@ Performing SVM on Iris Dataset using sklearn package. Mostly the coding is done 
 
 #### fundamental analysis stock.ipynb
 Stock Market analysis using the package mplfinance and the data from Yahoo Finance.
+
+#### Citation_Graph_Analytics.ipynb
+Article recommendation and link prediction on citation data. Neo4j Sandbox & Jupyter Notebook were used for graph analytics, article recommendation, Link prediction using the Random Forest Algorithm.
